@@ -22,7 +22,7 @@ app.use(requestLogger)
 let notes = [
   {
     id: 1,
-    content: "HTMLL is easy",
+    content: "HTML is easy",
     date: "2020-01-10T17:30:31.098Z",
     important: true
   },
