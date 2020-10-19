@@ -21,5 +21,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janne-nylund/example-part3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janne-nylund/example-part3/issues"
+  },
+  "homepage": "https://github.com/janne-nylund/example-part3#readme"
 }
